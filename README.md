@@ -34,5 +34,5 @@
 
 
 ## 📫 Contact Me
-- LinkedIn: [Noam Pdut](www.linkedin.com/in/noam-pdut-9ba55224a)
+- LinkedIn: [Noam Pdut](https://www.linkedin.com/in/noam-pdut-9ba55224a)
 - Email: noampdut@gmail.com
